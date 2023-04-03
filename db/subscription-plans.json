@@ -1,0 +1,56 @@
+{
+    "Packs": [
+        {
+            "PackName": "Silver",
+            "Channels": [
+                "Zee",
+                "Sony",
+                "Star Plus"
+            ],
+            "Price": 50
+        },
+        {
+            "PackName": "Gold",
+            "Channels": [
+                "Zee",
+                "Sony",
+                "Star Plus",
+                "Discovery",
+                "NatGeo"
+            ],
+            "Price": 100
+        }
+    ],
+    "Channels": [
+        {
+            "ChannelName": "Zee",
+            "Price": 10
+        },
+        {
+            "ChannelName": "Sony",
+            "Price": 15
+        },
+        {
+            "ChannelName": "Star Plus",
+            "Price": 20
+        },
+        {
+            "ChannelName": "Discovery",
+            "Price": 10
+        },
+        {
+            "ChannelName": "NatGeo",
+            "Price": 20
+        }
+    ],
+    "Services": [
+        {
+            "ServiceName": "LearnEnglish",
+            "Price": 200
+        },
+        {
+            "ServiceName": "LearnCooking",
+            "Price": 100
+        }
+    ]
+}
